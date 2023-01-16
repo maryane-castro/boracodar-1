@@ -1,2 +1,5 @@
 # media-queries
- desafio bora codar
+
+-A perfeiçoando conhecimentos em display grid e flex e @media para site responsivo.
+
+
